@@ -2,7 +2,7 @@
 
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2B
 
-YingXu
+Ying Xu
     anniexu6@seas.upenn.edu
 Tested on: 
 mac OS bigsur
