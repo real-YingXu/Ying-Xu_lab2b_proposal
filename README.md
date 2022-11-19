@@ -76,8 +76,6 @@ For the protective resistor selection, why should we only use the 330ohms and 1k
 
 ##
 
-Update November3
-
 
 
 
